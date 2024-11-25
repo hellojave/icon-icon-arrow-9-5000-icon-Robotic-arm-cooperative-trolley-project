@@ -1,0 +1,10 @@
+# ninja log v5
+1088	1503	7526853085025019	CMakeFiles/motor_car.dir/Drivers/CMSIS/DSP/DSP_Lib_TestSuite/Common/JTest/src/jtest_cycle.c.obj	769dfcd3a5b29b88
+1179	1576	7526853085728420	CMakeFiles/motor_car.dir/Drivers/CMSIS/DSP/DSP_Lib_TestSuite/Common/JTest/src/jtest_dump_str_segments.c.obj	dbd95456f4a11766
+1038	1427	7526853366561038	CMakeFiles/motor_car.dir/Drivers/CMSIS/DSP/DSP_Lib_TestSuite/Common/JTest/src/jtest_fw.c.obj	884e4df5b3cce854
+1125	1569	7526853367974808	CMakeFiles/motor_car.dir/Drivers/CMSIS/DSP/DSP_Lib_TestSuite/Common/JTest/src/jtest_trigger_action.c.obj	237bbe6f2ec40934
+1820	2429	7529196415707829	CMakeFiles/motor_car.dir/Drivers/CMSIS/DSP/DSP_Lib_TestSuite/Common/JTest/src/jtest_cycle.c.obj	769dfcd3a5b29b88
+1979	2436	7529196415822284	CMakeFiles/motor_car.dir/Drivers/CMSIS/DSP/DSP_Lib_TestSuite/Common/JTest/src/jtest_dump_str_segments.c.obj	dbd95456f4a11766
+1836	2434	7529197432990711	CMakeFiles/motor_car.dir/Drivers/CMSIS/DSP/DSP_Lib_TestSuite/Common/JTest/src/jtest_fw.c.obj	884e4df5b3cce854
+1998	2517	7529197433907010	CMakeFiles/motor_car.dir/Drivers/CMSIS/DSP/DSP_Lib_TestSuite/Common/JTest/src/jtest_trigger_action.c.obj	237bbe6f2ec40934
+608	2318	7529197913097975	CMakeFiles/motor_car.dir/Core/Src/syscalls.c.obj	ad21193988622511
